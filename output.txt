@@ -1,0 +1,1370 @@
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Sword
+Specialist
+Electric
+Lorem Ipsum
+Arclight Build
+Main Attribute: Agility
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Intellect
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:39 AM
+Arclight Overview
+IntroductionArclight is a Specialist in Arknights Endfields. Arclight is a Electric character which equips with Sword. 
+Arclight is a scabhta of the Fiannæ Circuit. She is currently partnering with Endfield Industries as a technical consultant. 
+No one roaming the wildlands could escape the grip of starvation and disasters, no matter how clever or capable they may think 
+themselves to be. Misfortune struck Arclight hard. The wildlands consumed her entire family, leaving her the only survivor.
+Sword
+Specialist
+Electric
+Arclight Review
+Endgame ReviewTBC
+Arclight Skills
+Arclight Basic Attack
+Arc Razor: SplitBASIC ATTACK:5-sequence slash attack that deals Physical DMG. As the controlled operator, Final Strike also 
+deals 20 Stagger.DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+DODGE ATTACK:Basic attack performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed 
+near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and restores some SP.
+MultiplierBase Attack Lv:
+Arclight Battle Skill
+Flash Blade: BoltInstantly blinks to the enemy’s side to deal a 2- sequence slash that deals some Physical DMG and [5 Stagger]. 
+If the enemy has ongoing Electrification, consume the reaction to deal another Electric DMG and [5 Stagger], and then restore 35 SP.
+SP cost 100
+MultiplierBattle Skill Lv:
+Arclight Combo Skill
+Glaive: WreathSKILL TRIGGER: When any operator performs a skill that restores SP. Instantly blinks to the enemy’s side to perform 
+multiple slashes that deal Physical DMG and [10 Stagger], and then restores 10 SP.
+Cooldown 5s
+MultiplierCombo Skill Lv:
+Arclight Ultimate
+Scimitar: ThundererTransforms into an arc of electricity that dashes for a short distance and deals Electric DMG, [10 Stagger], 
+and Electric Infliction to all enemies in the path. The lingering arc explodes after a short while, dealing another Electric DMG 
+and [20 Stagger]. If the enemy has active Electric Infliction, consume the infliction and instantly deal Electrification.
+Ultimate Energy Cost 120
+MultiplierUltimate Lv:
+Arclight Attribute Increase
+Arclight Attribute Increase I (Unlock at Promotion I)
+SkirmisherOperator Agility +5.
+Arclight Attribute Increase II (Unlock at Promotion II)
+SkirmisherOperator Agility +10.
+Arclight Attribute Increase III (Unlock at Promotion III)
+SkirmisherOperator Agility +15.
+Arclight Talent
+Arclight Talent I (Unlock at Promotion I)
+Wildland TrekkerEvery 15 Agility grants +0.5% Physical DMG dealt. Every 15 Intellect grants +0.5% Electric DMG dealt.
+Arclight Talent II (Unlock at Promotion II)
+Wildland TrekkerEvery 15 Agility grants +1.0% Physical DMG dealt. Every 15 Intellect grants +1.0% Electric DMG dealt.
+Arclight Talent III (Unlock at Promotion II)
+Fiannæ WisdomWhen restoring SP with her own skills, every teammate gains ATK +8% for 10s. Max stacks: 1.
+Arclight Talent IV (Unlock at Promotion III)
+Fiannæ WisdomWhen restoring SP with her own skills, every teammate gains ATK +15% for 10s. Max stacks: 1.
+Arclight AIC Skills
+Arclight AIC Skill I (Unlock at Promotion I)
+Inspire aWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 18%.
+Arclight AIC Skill II (Unlock at Promotion II)
+Mineralphile ßWhen assigned to the Growth Chamber, increase mineral growth rate by 12%
+Arclight AIC Skill III (Unlock at Promotion III)
+Inspire ßWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 24%.
+Arclight AIC Skill IV (Unlock at Promotion IV)
+Mineralphile yWhen assigned to the Growth Chamber, increase mineral growth rate by 16%
+Arclight Potential
+Arclight Potential I
+Blade of ArclightWildland Trekker effect enhanced: Physical DMG and Electric DMG boost from Agility and Intellect is increased by another 0.5%.
+Arclight Potential II
+Speed BattlerUltimate Energy cost for casting ultimate -10%.
+Arclight Potential III
+Tales and SongsSP restoration from battle skill +10.
+Arclight Potential IV
+Brewing TempestATK +15%.
+Arclight Potential V
+Sagely WisdomFiannæ Wisdom effect enhanced: The ATK buff can stack up to 2 times.
+
+Guide
+ 
+
+ Menu
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Polearm
+Specialist
+Electric
+Lorem Ipsum
+Avywenna Build
+Main Attribute: Will
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Agility
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:35 AM
+Avywenna Overview
+IntroductionAvywenna is a Specialist in Arknights Endfields. Avywenna is a Electric character which equips with Polearm. 
+Avywenna is widely recognized as an Armed Messenger on the frontier. With extensive experience traversing the rugged terrain, 
+she navigates the wildlands adeptly, shuttling between the frontier and the Civilization Band. A seasoned warrior, Avywenna 
+joined Endfield on the endorsement of the company’s longstanding recruitment associate.
+Polearm
+Specialist
+Electric
+Avywenna Review
+Endgame ReviewAvywenna stands as the sole Arknights: Endfield character using a Polearm in battle. Serving as a Specialist role, 
+she facilitates consistent elemental fusions for her party through her Ultimate ability. When utilizing Avywenna’s Battle Skill, 
+exercise caution as it may disrupt enemy formations by pushing them back; avoid pushing foes out of areas targeted by ongoing skills. 
+Conversely, her Ultimate enables a continuous stagger effect on enemies, triggering elemental fusions each time a skill is directed 
+towards it. Aim to deploy her Ultimate in close proximity to maximize impact on multiple adversaries.
+Avywenna Skills
+Avywenna Basic Attack
+Thunderlance: BlitzBASIC ATTACK:5-sequence attack that deals Physical DMG. As the controlled operator, Final Strike also deals 20 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG.DODGE ATTACK:Basic attack performed right 
+after a dodge becomes a dodge attack that deals 2 hits ofPhysical DMG.FINISHER:Basic attack performed near a Staggered enemy becomes a 
+finisher attack that deals massive Physical DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Avywenna Battle Skill
+Thunderlance: InterdictionLeaps into mid-air and stirs up a maelstrom with the lance, dealing some Electric DMG and [5 Stagger] to nearby
+enemies. Skill also retrieves all Thunderlances. During retrieval, Thunderlances deal Electric DMG and [5 Stagger] to all enemies hit by
+them, while Thunderlances EX deal even more Electric DMG, [20 Stagger], and Electric Infliction.
+MultiplierBattle Skill Lv:
+Avywenna Combo Skill
+Thunderlance: StrikeSKILL TRIGGER: When controlled operator performs Final Strike on a target with active Electric Infliction or 
+Electrification. Leaps into mid-air and throws 3 Thunderlances at the target, then deal 1 hit of Electric DMG and [10 Stagger] to 
+enemies in an area of effect in front of the operator.
+Cooldown 16s
+MultiplierCombo Skill Lv:
+Avywenna Ultimate
+Thunderlance: Final ShockThrows a Thunderlance EX at the target area that deals massive Electric DMG, [20 Stagger], and temporary 
+Electric RES debuff to all enemies nearby.
+Ultimate Energy Cost 100
+MultiplierUltimate Lv:
+Avywenna Attribute Increase
+Avywenna Attribute Increase I (Unlock at Promotion I)
+StalwartOperator Will +5.
+Avywenna Attribute Increase II (Unlock at Promotion II)
+StalwartOperator Will +10.
+Avywenna Attribute Increase III (Unlock at Promotion III)
+StalwartOperator Will +15.
+Avywenna Talent
+Avywenna Talent I (Unlock at Promotion I)
+Armed MessengerWhen any operator in the team performs a finisher on a target, the target also suffers Electric RES -6% for 15s.
+Avywenna Talent II (Unlock at Promotion II)
+Armed MessengerWhen any operator in the team performs a finisher on a target, the target also suffers Electric RES -12% for 15s.
+Avywenna Talent III (Unlock at Promotion II)
+Occupational LegacyWhen battle skill retrieves a Thunderlance that struck the enemy, operator gains 3 SP. The Thunder lance EX generated by the ultimate gains a 3x multiplier to its effect.
+Avywenna Talent IV (Unlock at Promotion III)
+Occupational LegacyWhen battle skill retrieves a Thunderlance that struck the enemy, operator gains 5 SP. The Thunder lance EX generated by the ultimate gains a 3x multiplier to its effect.
+Avywenna AIC Skills
+Avywenna AIC Skill I (Unlock at Promotion I)
+Vitrophile aWhen assigned to the Growth Chamber, increase vitros growth rate by 8%
+Avywenna AIC Skill II (Unlock at Promotion II)
+Inspire ßWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 24%.
+Avywenna AIC Skill III (Unlock at Promotion III)
+Vitrophile ßWhen assigned to the Growth Chamber, increase vitros growth rate by 12%
+Avywenna AIC Skill IV (Unlock at Promotion IV)
+Inspire yWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 30%.
+Avywenna Potential
+Avywenna Potential I
+Approaching StormBattle skill whirlwind DMG +100%.
+Avywenna Potential II
+Resonating ThunderDuration of all Thunderlances +30s.
+Avywenna Potential III
+Fleeting LightningUltimate Energy cost for casting ultimate -10%.
+Avywenna Potential IV
+Never be WeakATK +10%, Critical DMG +10%.
+Avywenna Potential V
+Violent MeasuresArmed Messenger effect enhanced: Target suffers an additional 6% Electric RES reduction.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Sword
+Guard
+Physical
+Lorem Ipsum
+Chen Qianyu Build
+Main Attribute: Agility
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Strength
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:35 AM
+Chen Qianyu Overview
+IntroductionChen Qianyu is a Guard in Arknights Endfields. Chen Qianyu is a Physical character which equips with Sword. 
+She possesses exceptional physical prowess and agility. Engaging in combat, she employs a range of traditional martial arts 
+techniques, capable of overwhelming her adversaries with swift and relentless strikes. Committed to refining her combat skills, 
+she eagerly seeks opportunities to spar with fellow practitioners.
+Sword
+Guard
+Physical
+Chen Qianyu Review
+Endgame ReviewJust like the Endministrator, Chen uses a sword to fight her opponents. Chen provides a lot of single-target DPS. 
+Her Active Skill can instantly interrupt the enemy’s attack and deal quite a lot of single-target damage, same with her Ultimate.
+Like with every DPS operator, We recommend swapping to her to use her skills and swap back to the tank you have in your party.
+Chen Qianyu Skills
+Chen Qianyu Basic Attack
+Soaring BreakBASIC ATTACK:5-sequence slash attack that deals Physical DMG.As the controlled operator, Final Strike also deals 20 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.DODGE ATTACK:Basic attack 
+performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed near a Staggered enemy 
+becomes a finisher attack that deals massive Physical DMG and restores some SP.
+MultiplierBase Attack Lv:
+Chen Qianyu Battle Skill
+Ascending StrikePerforms an uppercut slash at the target enemy, dealing Physical DMG, [20 Stagger], and Lift. STR extends the Lift status 
+inflicted upon the target.
+MultiplierBattle Skill Lv:
+Chen Qianyu Combo Skill
+Stellar GashSKILL TRIGGER: When there are 2 Vulnerable enemies on the battlefield.A slashing dash that passes through the target enemy
+and deals Physical DMG, [IO Stagger], and Lift to all enemies along the way.
+Cooldown 25s
+MultiplierCombo Skill Lv:
+Chen Qianyu Ultimate
+Blade GaleA 7-sequence slash attack that deals Physical DMG with each sequence. The final slash sequence deals even more DMG. 
+The first and final slash also deals 20 Stagger.
+# TODO: add ultimate energy
+MultiplierUltimate Lv:
+Chen Qianyu Attribute Increase
+Chen Qianyu Attribute Increase I (Unlock at Promotion I)
+SkirmisherOperator Agility +5.
+Chen Qianyu Attribute Increase II (Unlock at Promotion II)
+SkirmisherOperator Agility +10.
+Chen Qianyu Attribute Increase III (Unlock at Promotion III)
+SkirmisherOperator Agility +15.
+Chen Qianyu Talent
+Chen Qianyu Talent I (Unlock at Promotion I)
+Slashing EdgeEvery enemy hit with skills gives ATK +4% for 10s. Max stacks: 5.
+Chen Qianyu Talent II (Unlock at Promotion II)
+Slashing EdgeEvery enemy hit with skills gives ATK +8% for 10s. Max stacks: 5.
+Chen Qianyu Talent III (Unlock at Promotion II)
+Momentum BreakerInterrupting the enemy’s charging with skills deals another 5 Stagger.
+Chen Qianyu Talent IV (Unlock at Promotion III)
+Momentum BreakerInterrupting the enemy’s charging with skills deals another 10 Stagger.
+Chen Qianyu AIC Skills
+Chen Qianyu AIC Skill I (Unlock at Promotion I)
+Expert MFG αWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 10%
+Chen Qianyu AIC Skill II (Unlock at Promotion II)
+Mycophile ßWhen assigned to the Growth Chamber, increase fungi growth rate by 12%
+Chen Qianyu AIC Skill III (Unlock at Promotion III)
+Expert MFG ßWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 14%
+Chen Qianyu AIC Skill IV (Unlock at Promotion IV)
+Mycophile yWhen assigned to the Growth Chamber, increase fungi growth rate by 16%
+Chen Qianyu Potential
+Chen Qianyu Potential I
+The Lost ShadowlessUltimate deals 1.4x DMG to Staggered enemies.
+Chen Qianyu Potential II
+Yinglong ExerciseSlashing Edge effect enhanced: ATK increase coefficient +3.0%.
+Chen Qianyu Potential III
+UnsheathedUltimate Energy cost for casting ultimate -10%.
+Chen Qianyu Potential IV
+Improvised Chi XiaoATK +10%, Critical DMG +10%.
+Chen Qianyu Potential V
+Outstanding SwordmancerEach enemy successfully Lifted by the combo skill shortens combo skill CD by7%.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Great Sword
+Guard
+Nature
+Lorem Ipsum
+Da Pan Build
+Main Attribute: Strength
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Will
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:35 AM
+Da Pan Overview
+IntroductionDa Pan is a Guard in Arknights Endfields. Da Pan is a Nature character which equips with Great Sword. Da Pan carries a 
+special bottle with him wherever he goes. It doesn’t look like anything special to most people, but anyone familiar with the writing 
+of Yan would wonder about its origins. However, if that person happens to be from Hongshan, they would immediately recognize its origins 
+and significance, because they know very well that the bottle is an item of honor only awarded to “major contributors to science”.
+Great Sword
+Guard
+Nature
+Da Pan Review
+Endgame ReviewTBC
+Da Pan Skills
+Da Pan Basic Attack
+ROLLING CUT!BASIC ATTACK:4-sequence attack that deals Physical DMG. As the controlled operator, Final Strike also deals 25 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.DODGE ATTACK:Basic attack 
+performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed near a Staggered enemy 
+becomes a finisher attack that deals Physical DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Da Pan Battle Skill
+FLIP DA WOK!Takes out the wok and performs a short charging process before unleashing an upward swing that deals Physical DMG, 
+[15 Stagger], and Lifted to the enemy.
+SP cost 100
+MultiplierBattle Skill Lv:
+Da Pan Combo Skill
+MORE SPICE!SKILL TRIGGER: When a Lifted or Knocked Down enemy is Lifted. Da Pan leaps into mid-air and slams his metal wok to deal 
+Physical DMG to enemies within the AOE as well as Force Knock Down to Lifted enemies.
+Cooldown 10s
+MultiplierCombo Skill Lv:
+Da Pan Ultimate
+CHOP ‘N DUNK!Slams the chopping board to forcibly deal Lifted to all enemies in the area of effect, then performs a 6- sequence flurry 
+of slashes that deal Nature DMG. Finally, bashes every enemy into the ground to forcibly deal Knocked Down and massive Nature DMG to them.
+Ultimate Energy Cost 120
+MultiplierUltimate Lv:
+Da Pan Attribute Increase
+Da Pan Attribute Increase I (Unlock at Promotion I)
+ForgedOperator Strength +5.
+Da Pan Attribute Increase II (Unlock at Promotion II)
+ForgedOperator Strength +10.
+Da Pan Attribute Increase III (Unlock at Promotion III)
+ForgedOperator Strength +15.
+Da Pan Talent
+Da Pan Talent I (Unlock at Promotion I)
+Reduce and ThickenDMG dealt to enemies with ongoing Physical Status +20%.
+Da Pan Talent II (Unlock at Promotion II)
+Reduce and ThickenDMG dealt to enemies with ongoing Physical Status +30%.
+Da Pan Talent III (Unlock at Promotion II)
+Salty or MildHitting enemies with Final Strike restores 2% Max HP to the operator.
+Da Pan Talent IV (Unlock at Promotion III)
+Salty or MildHitting enemies with Final Strike restores 3% Max HP to the operator.
+Da Pan AIC Skills
+Da Pan AIC Skill I (Unlock at Promotion I)
+Vitrophile αWhen assigned to the Growth Chamber, increase vitros growth rate by 8%
+Da Pan AIC Skill II (Unlock at Promotion II)
+Factory Pioneer ßWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 9%
+Da Pan AIC Skill III (Unlock at Promotion III)
+Vitrophile ßWhen assigned to the Growth Chamber, increase vitros growth rate by 12%
+Da Pan AIC Skill IV (Unlock at Promotion IV)
+Factory Pioneer yWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 12%
+Da Pan Potential
+Da Pan Potential I
+Condiment SkilletingCombo skill hits on the target are mechanically regarded as Final Strikes.
+Da Pan Potential II
+Thicken the SauceReduce and Thicken effect enhanced: DMG Dealt is increased by another 15%.
+Da Pan Potential III
+Model EmployeeUltimate Energy cost for casting ultimate -10%.
+Da Pan Potential IV
+Special BlendSTR +20, WILL +20.
+Da Pan Potential V
+Fire it upIf the ultimate defeats at least 1 enemy, the operator gains ATK +60% for 15s.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Great Sword
+Defender
+Heat
+Lorem Ipsum
+Ember Build
+Main Attribute: Strength
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Will
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:37 AM
+Ember Overview
+IntroductionEmber is a Defender in Arknights Endfields. Ember is a Heat character which equips with Great Sword. Ember, a Tank character 
+in the current game lineup, stands out as a remarkable warrior with extensive combat expertise and a knack for military strategies. 
+While she excels in battle, Ember struggles with everyday communication, prompting caution among fellow Endfield members to communicate 
+with her sensitively to prevent any misunderstandings.
+Great Sword
+Defender
+Heat
+Ember Review
+Endgame ReviewEmber uses a greatsword and fulfills the role of a tank, offering an Ultimate that bolsters all operators within the party.
+ Typically, with tank units like Ember, she should be actively engaged in combat throughout. It is advisable to promptly utilize her 
+ skills upon cooldown to ensure her Ultimate is available as often as feasible.
+Ember Skills
+Ember Basic Attack
+Art of the Crusading SwordBASIC ATTACK:4-sequence slash that deals Physical DMG. As the controlled operator, Final Strike also deals 
+35Stagger.DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+DODGE ATTACK:Basic attack performed right after a dodgebecomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed 
+near a Staggered enemy becomes a finisher attack that deals massivePhysical DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Ember Battle Skill
+Crusade of CindersA powerful slam that deals Heat DMG, [15 Stagger], and Knock Down to all enemies in a fan-shaped area. Also deals Heat 
+Infliction to any unit Knocked Down by this skill.
+SP cost 100
+MultiplierBattle Skill Lv:
+Ember Combo Skill
+Judgment’s EndSKILL TRIGGER: When the controlled operator is attacked. Performs a leaping slam attack at the target enemy that deals 
+Physical DMG, [10 Stagger], and Knock Down. The skill also gives some HP Treatment to the controlled operator. Will can increase the 
+amount of HP Treatment given.
+Cooldown 18s
+Multiplier﻿Combo Skill Lv:
+Ember Ultimate
+Undying OathA ground slam that gives instant HP Treatment and temporary All DMG Reduction to all operators. Also deals Heat DMG, 
+[20 Stagger], and a temporary DEF reduction to all enemies nearby. Will can increase the amount of HP Treatment given.
+Ultimate Energy Cost 110
+Multiplier﻿Ultimate Lv:
+Ember Attribute Increase
+Ember Attribute Increase I (Unlock at Promotion I)
+ForgedOperator Strength +5.
+Ember Attribute Increase II (Unlock at Promotion II)
+ForgedOperator Strength +10.
+Ember Attribute Increase III (Unlock at Promotion III)
+ForgedOperator Strength +15.
+Ember Talent
+Ember Talent I (Unlock at Promotion I)
+Northern TacticsAt above HP, ATK +20%. At below HP, DEF +20%.
+Ember Talent II (Unlock at Promotion II)
+Northern TacticsAt above HP, ATK +40%. At below HP, DEF +40%.
+Ember Talent III (Unlock at Promotion II)
+Grievous HatredWhen combo skill hits enemies, the affected targets have a 100% chance to suffer DEF -10% for 8s.
+Ember Talent IV (Unlock at Promotion III)
+Grievous HatredWhen combo skill hits enemies, the affected targets have a 100% chance to suffer DEF -20% for 8s.
+Ember AIC Skills
+Ember AIC Skill I (Unlock at Promotion I)
+Factory Pioneer ßWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 9%
+Ember AIC Skill II (Unlock at Promotion II)
+Expert MFG ßWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 14%
+Ember AIC Skill III (Unlock at Promotion III)
+Factory Pioneer yWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 12%
+Ember AIC Skill IV (Unlock at Promotion IV)
+Expert MFG yWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 18%
+Ember Potential
+Ember Potential I
+Oathkeeper’s BladeWhen battle skill hits at least 2 enemies, the affected targets have a 100% chance to trigger Grievous Hatred effects.
+Ember Potential II
+Unforgotten ScarNorthern Tactics effect enhanced: ATK and DEF are increased by another 15%.
+Ember Potential III
+CrusaderUltimate Energy cost for casting ultimate -10%.
+Ember Potential IV
+Fort ForgefaneDEF +20, WILL +20.
+Ember Potential V
+Steel RainsAt above 50% HP, Final Strike gains DMG Dealt 40%.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Sword
+Guard
+Physical
+Lorem Ipsum
+Endministrator Build
+Main Attribute: Agility
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Strength
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:35 AM
+Endministrator Overview
+IntroductionEndministrator is a Guard in Arknights Endfields. Endministrator is a Physical character which equips with Sword. 
+Endministrator takes the lead role in Arknights: Endfield. Within the Arknights universe, details concerning the technology underpinning 
+Endministrator remain tightly guarded. Despite numerous legends and speculations circulating about this character, it is established 
+that Endministrator held a pivotal position within Enfield Industries.
+Sword
+Guard
+Physical
+Endministrator Review
+Endgame ReviewEndministrator uses a sword on the battlefield and uniquely possesses two variations of their active skill. It is 
+advisable to employ their Active Skill to disrupt enemy assaults. Conversely, their Ultimate is most effective when executed from the 
+rear of the enemy.
+Endministrator Skills
+Endministrator Basic Attack
+Destructive SequenceBASIC ATTACK:5-sequence slash attack that deals Physical DMG. As the controlled operator, Final Strike also deals 
+20 Stagger.DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+DODGE ATTACK:Basic attack performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed 
+near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and restores some SP.
+MultiplierBase Attack Lv:
+Endministrator Battle Skill
+Constructive SequenceA forceful burst of Originium that attacks enemies within the area of effect. Deals Physical DMG and [15 Stagger], 
+and Knocks Back the target.
+MultiplierBattle Skill Lv:
+Endministrator Combo Skill
+Flash PulverizationSKILL TRIGGER: When another operator’s combo skill deals DMG.Rushes to the enemy’s side to deal Physical DMG and 
+[10 Stagger]. Also seals the enemy temporarily by encasing them in Originium crystals. Skills that deal Vulnerable or other Physical 
+Status will shatter the crystals and deal additional Physical DMG. The Strength (STR) attribute can extend the duration of the Originium 
+crystals.
+Cooldown 25s
+MultiplierCombo Skill Lv:
+Endministrator Ultimate
+Bombardment SequenceUnleashes the Originium Arts to cause Originium crystals to erupt from the ground, dealing massive Physical DMG and 
+[25 Stagger] to all enemies within a fan-shaped area. If the target has Originium crystals on them, this skill shatters the crystals and 
+deals 1 more hit of bonus Physical DMG.
+# TODO: add ultimate energy
+MultiplierUltimate Lv:
+Endministrator Attribute Increase
+Endministrator Attribute Increase I (Unlock at Promotion I)
+SkirmisherOperator Agility +5.
+Endministrator Attribute Increase II (Unlock at Promotion II)
+SkirmisherOperator Agility +10.
+Endministrator Attribute Increase III (Unlock at Promotion III)
+SkirmisherOperator Agility +15.
+Endministrator Talent
+Endministrator Talent I (Unlock at Promotion I)
+The GuideHitting at least 2 targets with the battle skill or ultimate shortens combo skill CD by 1.5s.
+Endministrator Talent II (Unlock at Promotion II)
+The GuideHitting at least 2 targets with the battle skill or ultimate shortens combo skill CD by 3s.
+Endministrator Talent III (Unlock at Promotion II)
+Stasis SequenceEnemies sealed by Originium crystals take 10% more Physical DMG.
+Endministrator Talent IV (Unlock at Promotion III)
+Stasis SequenceEnemies sealed by Originium crystals take 20% more Physical DMG.
+Endministrator Potential
+Endministrator Potential I
+Cradle’s EndAll Skill DMG +15%.
+Endministrator Potential II
+Originium DisintegrationShattering Originium crystal seals created by the combo skill deals +75% damage.
+Endministrator Potential III
+The Third AwakeningUltimate Energy cost for casting ultimate -10%.
+Endministrator Potential IV
+???Fall silent in the face of the scars of humanity.
+Endministrator Potential V
+???Embers set the garden ablaze and burned the cradle to ashes.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Sword
+Defender
+Cryo
+Lorem Ipsum
+Fjall Build
+Main Attribute:
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute:
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:35 AM
+Fjall Overview
+IntroductionFjall is a Defender in Arknights Endfields. Fjall is a Cryo character which equips with Sword. He serves as a field surgeon 
+renowned for his expertise in clinical diagnostics and adept pathological analysis. A bold and valiant fighter, he excels in assuming 
+the offensive position for his team.
+Sword
+Defender
+Cryo
+Fjall Review
+Endgame ReviewIn combat, Fjall uses a sword to engage his foes, providing support to his fellow operators through his Ultimate skill and 
+healing capabilities from his Active Skill. It is advisable to deploy Fjall’s Active Skill to disrupt enemy assaults effectively. 
+When positioned strategically, his Active Skill can halt enemy attacks twice. As for his Ultimate, it is best utilized when party 
+members are either at low health or have their Ultimate skills prepared, ensuring a significant boost in damage output.
+Fjall Skills
+Fjall Basic Attack
+TBCBASIC ATTACK:5-sequence slash attack that deals Physical DMG.As the controlled operator, Final Strike also deals 20 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.DODGE ATTACK:Basic 
+attack performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed near a Staggered 
+enemy becomes a finisher attack that deals massive Physical DMG and restores some SP.
+MultiplierBase Attack Lv:
+Fjall Battle Skill
+Terminal DisassemblyFjall advances along the target location, unleashing 2 attacks along the way with the second one dealing more damage 
+than the first. If the attack hits the enemy, the operator with the lowest percentage of HP recovers health equal to 30% damage dealt by 
+this skill.
+MultiplierBattle Skill Lv:
+Fjall Combo Skill
+TBCSKILL TRIGGER: TBC
+MultiplierCombo Skill Lv:
+Fjall Ultimate
+Hyperdose FormulaFjall treats all operators, recovering their health. For the next 10 seconds, operators also have their attack 
+increased by a certain percentage.
+MultiplierUltimate Lv:
+Fjall Attribute Increase
+Fjall Attribute Increase I (Unlock at Promotion I)
+TBCTBC
+Fjall Attribute Increase II (Unlock at Promotion II)
+TBCTBC
+Fjall Attribute Increase III (Unlock at Promotion III)
+TBCTBC
+Fjall Talent
+Fjall Talent I (Unlock at Promotion I)
+TBCTBC
+Fjall Talent II (Unlock at Promotion II)
+TBCTBC
+Fjall Talent III (Unlock at Promotion II)
+TBCTBC
+Fjall Talent IV (Unlock at Promotion III)
+TBCTBC
+Fjall AIC Skills
+Fjall AIC Skill I (Unlock at Promotion I)
+TBCTBC
+Fjall AIC Skill II (Unlock at Promotion II)
+TBCTBC
+Fjall AIC Skill III (Unlock at Promotion III)
+TBCTBC
+Fjall AIC Skill IV (Unlock at Promotion IV)
+TBCTBC
+Fjall Potential
+Fjall Potential I
+TBCTBC
+Fjall Potential II
+TBCTBC
+Fjall Potential III
+TBCTBC
+Fjall Potential IV
+TBCTBC
+Fjall Potential V
+TBCTBC
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Orbiters
+Support
+Nature
+Lorem Ipsum
+Gilberta Build
+Main Attribute: Will
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Intellect
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:37 AM
+Gilberta Overview
+IntroductionGilberta is a Support in Arknights Endfields. Gilberta is a Nature character which equips with Orbiters. Gilberta, serves as 
+a Rhodes Island liaison based at Endfield Industries. Fans of the earlier Arknights game may recognize her. Proficient in the uncommon 
+gravity facet of Originium Arts, she has played a pivotal role in supporting numerous crucial projects across different divisions.
+Orbiters
+Support
+Nature
+Gilberta Review
+Endgame ReviewGilberta uses an orbiter in battle and excels as a ranged support character. Despite her fragility, she possesses a strong 
+Nature infliction ability and pulling ability while activating her Battle Skill. It’s advisable to keep her at a distance from the 
+frontline. Gilberta’s vulnerability contrasts with her exceptional damage output.
+Gilberta Skills
+Gilberta Basic Attack
+Arcane Staff: Beam Cohesion ArtsBASIC ATTACK:A continuous 4-sequence attack that deals Nature DMG. As the controlled operator, Final 
+Strike also deals 16 Stagger.DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.
+DODGE ATTACK:Basic attack performed right after a dodgebecomes a dodge attack that deals Nature DMG.FINISHER:Basic attack performed near 
+a Staggered enemy becomes a finisher attack that deals massive Nature DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Gilberta Battle Skill
+Arcane Staff: Gravity ModeChannels the Arts to create an anomalous gravity well. The well pulls in nearby enemies and deals Nature DMG 
+per second to them. The well then implodes after a while to deal Nature DMG, [10 Stagger], and Nature Infliction to enemies in the area 
+of effect.
+MultiplierBattle Skill Lv:
+Gilberta Combo Skill
+Arcane Staff: Matrix DisplacementSKILL TRIGGER: When an Arts Reaction is dealt to the enemy. After performing quick casting gestures, 
+apply Gravitational Arts that deal Nature DMG and Force Lifts the target and nearby enemies.
+Cooldown 25s
+MultiplierCombo Skill Lv:
+Gilberta Ultimate
+Arcane Staff: Gravity FieldCreates an anomalous gravity field that instantly deals a single hit of Nature DMG, [20 Stagger], and Nature 
+Infliction to all enemies within the circular area of effect. Enemies in the gravity field move slower and suffer increased Arts DMG 
+Taken, while Lifted enemies in the gravity field remain Lifted and suffer even greater Arts DMG Taken. The Intellect (INT) attribute can 
+increase the Arts DMG Taken debuff.
+Ultimate Energy Cost 100
+MultiplierUltimate Lv:
+Gilberta Attribute Increase
+Gilberta Attribute Increase I (Unlock at Promotion I)
+StalwartOperator Will +5.
+Gilberta Attribute Increase II (Unlock at Promotion II)
+StalwartOperator Will +10.
+Gilberta Attribute Increase III (Unlock at Promotion III)
+StalwartOperator Will +15.
+Gilberta Talent
+Gilberta Talent I (Unlock at Promotion I)
+FLY HIGH!Enemies successfully Lifted by Gilberta take +15% DMG for the next 5s.
+Gilberta Talent II (Unlock at Promotion II)
+FLY HIGH!Enemies successfully Lifted by Gilberta take +30% DMG for the next 5s.
+Gilberta Talent III (Unlock at Promotion II)
+Miss NavigatorDuring battle, channeling the battle skill also treats nearby teammates for (19 + Intellect x 0.3) HP per second.
+Gilberta Talent IV (Unlock at Promotion III)
+Miss NavigatorDuring battle, channeling the battle skill also treats nearby teammates for (31 + Intellect x 0.5) HP per second.
+Gilberta AIC Skills
+Gilberta AIC Skill I (Unlock at Promotion I)
+Expert MFG αWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 14%
+Gilberta AIC Skill II (Unlock at Promotion II)
+Factory Pioneer ßWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 9%
+Gilberta AIC Skill III (Unlock at Promotion III)
+Expert MFG ßWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 18%
+Gilberta AIC Skill IV (Unlock at Promotion IV)
+Factory Pioneer yWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 12%
+Gilberta Potential
+Gilberta Potential I
+Arcane Staff OverchargeIf the battle skill final burst effect affects at least 3 targets, restore 10 SP.
+Gilberta Potential II
+Arcane Staff OverchargeSlashing Edge effect enhanced: ATK increase coefficient +3.0%.
+Gilberta Potential III
+Sweets CourierUltimate Energy cost for casting ultimate -10%.
+Gilberta Potential IV
+Kiss of GravityFLY HIGH! effect enhanced: DMG dealt to target is increased by another 15%.
+Gilberta Potential V
+Nimbus DanceIf no DMG has been taken after 5s, when Gilberta is on the field, basic attacks deal +10% DMG.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Sword
+Caster
+Heat
+Lorem Ipsum
+Laevatain Build
+Main Attribute: Intellect
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Strength
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:38 AM
+Laevatain Overview
+IntroductionLaevatain is a Caster in Arknights Endfields. Laevatain is a Heat character which equips with Sword. Laevatain is a Rhodes 
+Island Operator assigned to Endfield Industries where she serves as a specialist operator following the framework agreement between the 
+two companies. With Warfarin’s authorization, Laevatain once spent years in the north to carry out a solo field mission, thanks to her 
+strong skills in independent operations.
+Sword
+Caster
+Heat
+Laevatain Review
+Endgame ReviewTBC
+Laevatain Skills
+Laevatain Basic Attack
+Sviga LæviBASIC ATTACK:5-sequence slash that deals Heat DMG. As the controlled operator, Final Strike also deals 27 Stagger.DIVE ATTACK:
+Basic attack performed in mid-air becomes a dive attack that deals Heat DMG to nearby enemies.DODGE ATTACK:Basic attack performed right 
+after a dodge becomes a dodge attack that deals Heat DMG.FINISHER:Basic attack performed near a Staggered enemy becomes a finisher 
+attack that deals massive Heat DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Laevatain Battle Skill
+Blade of ConflagrationMakes fire erupt from the blade and unleashes multiple pillars of fire after a short casting process. Deal Heat 
+DMG, [10 Stagger], and Heat Infliction to all enemies within a medium area of effect. If an enemy hit by this skill is quickly defeated, 
+restore 50 SP (this effect can only trigger 1 time per casting of this skill).
+SP cost 100
+MultiplierBattle Skill Lv:
+Laevatain Combo Skill
+Smouldering ThornsSKILL TRIGGER: When Combustion is dealt to the enemy. Unleashes the Burning Thorn that incinerates the enemy to deal 
+Heat DMG, [10 Stagger], and 15s of Heat RES reduction.Cooldown 27s
+MultiplierCombo Skill Lv:
+Laevatain Ultimate
+Ring of TwilightSummons a giant blade of fire and makes Laevatain the controlled operator. Enhances basic attack (BATK) for 15s with the 
+giant blade striking together with the operator. Each BATK sequence deals more Heat DMG while the 2nd and 4th BATK sequences also deal 
+Heat Infliction.
+Ultimate Energy Cost 130
+MultiplierUltimate Lv:
+Laevatain Attribute Increase
+Laevatain Attribute Increase I (Unlock at Promotion I)
+Keen MindOperator Intellect +5.
+Laevatain Attribute Increase II (Unlock at Promotion II)
+Keen MindOperator Intellect +10.
+Laevatain Attribute Increase III (Unlock at Promotion III)
+Keen MindOperator Intellect +15.
+Laevatain Talent
+Laevatain Talent I (Unlock at Promotion I)
+Liquefy ArmorDMG dealt ignores 10% Heat RES of the enemy.
+Laevatain Talent II (Unlock at Promotion II)
+Liquefy ArmorDMG dealt ignores 15% Heat RES of the enemy.
+Laevatain Talent III (Unlock at Promotion II)
+Volatile BurstAfter the operator triggers a Heat Bu ßt, she gains Heat Burst DMG +10% for 10S. (Max stacks: 5)
+Laevatain Talent IV (Unlock at Promotion III)
+Volatile BurstAfter the operator triggers a Heat Bu ßt, she gains Heat Burst DMG +15% for 10S. (Max stacks: 5)
+Laevatain AIC Skills
+Laevatain AIC Skill I (Unlock at Promotion I)
+Expert Grower ßWhen assigned to the Growth Chamber, slow Mood Drop of all operators in it by 14%
+Laevatain AIC Skill II (Unlock at Promotion II)
+Mineralphile ßWhen assigned to the Growth Chamber, increase mineral growth rate by 12%
+Laevatain AIC Skill III (Unlock at Promotion III)
+Expert Grower yWhen assigned to the Growth Chamber, slow Mood Drop of all operators in it by 18%
+Laevatain AIC Skill IV (Unlock at Promotion IV)
+Mineralphile yWhen assigned to the Growth Chamber, increase mineral growth rate by 16%
+Laevatain Potential
+Laevatain Potential I
+Melting FlameLiquefy Armor effect enhanced: Further ignores 8% Heat RES.
+Laevatain Potential II
+I Ice cream MixtureUltimate Energy cost for casting ultimate -10%.
+Laevatain Potential III
+Demon EradicatorCritical Rate +5%, Intellect +20.
+Laevatain Potential IV
+Reconvention and ReturnVolatile Burst effect enhanced: Effect per stack + 8%.
+Laevatain Potential V
+TwilightNext finisher deals +50% DMG. This triggers only 1 time every 20s.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Polearm
+Guard
+Physical
+Lorem Ipsum
+Lifeng Build
+Main Attribute: Agility
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Strength
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:39 AM
+Lifeng Overview
+IntroductionLifeng is a Guard in Arknights Endfields. Lifeng is a Physical character which equips with Polearm. Lifeng is a member of 
+Wuling City Guards who currently interns at the Specialist Tech Division of Endfield Industries. When he was little, Lifeng had a happy 
+family like other kids in Wuling. However … a horrific incident crushed his arm and took the lives of his parents. he less-than-10
+year-old boy had no choice but to mature quickly. He accepted a prosthetic arm and poured effort into every step of his recovery.
+Polearm
+Guard
+Physical
+Lifeng Review
+Endgame ReviewTBC
+Lifeng Skills
+Lifeng Basic Attack
+Illuminated ShatteringBASIC ATTACK:5-sequence slash attack that deals Physical DMG. As the controlled operator, Final Strike also deals 
+27 Stagger.DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.DODGE ATTACK:
+Basic attack performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed near a 
+Staggered enemy becomes a finisher attack that deals massive Physical DMG and restores some SP.
+MultiplierBase Attack Lv:
+Lifeng Battle Skill
+Turbid AvatarSwings the polearm 2 times while advancing, with each swing dealing 1 hit of Physical DMG. Then slams the ground to deal 
+Physical DMG, [15 Stagger], and Knock Down to enemies in the area of effect. Apply the mark of Turbidity that lasts for several seconds 
+to the target struck by the final hit of the skill (marked enemies also suffer reduced Physical RES).
+SP cost 100
+MultiplierBattle Skill Lv:
+Lifeng Combo Skill
+Unfounded AdversitySKILL TRIGGER: When controlled operator performs Final Strike on an enemy with active Turbidity. Unleashes an avatar 
+and thrusts the enemy with the spear to deal massive Physical DMG and [10 Stagger].
+Cooldown 10s
+MultiplierCombo Skill Lv:
+Lifeng Ultimate
+Heart of the UnmovingUnleashes an avatar who performs the Immovable Vajra Slam, dealing massive Physical DMG, [10 Stagger], and Knock Down
+to all enemies within a large area of effect (AOE). All enemies are then pulled towards the center of the AOE. After a while, all 
+enemies still within the Vajra Slam AOE will take another hit of massive Physical DMG, [10 Stagger], and Knock Down.
+Ultimate Energy Cost 120
+MultiplierUltimate Lv:
+Lifeng Attribute Increase
+Lifeng Attribute Increase I (Unlock at Promotion I)
+SkirmisherOperator Agility +5.
+Lifeng Attribute Increase II (Unlock at Promotion II)
+SkirmisherOperator Agility +10.
+Lifeng Attribute Increase III (Unlock at Promotion III)
+SkirmisherOperator Agility +15.
+Lifeng Talent
+Lifeng Talent I (Unlock at Promotion I)
+Youthful NatureEach Intellect and Will grants another ATK +0.10% to the operator.
+Lifeng Talent II (Unlock at Promotion II)
+Youthful NatureEach Intellect and Will grants another ATK +0.15% to the operator.
+Lifeng Talent III (Unlock at Promotion II)
+Intern of the MonthCombo skill hits on the enemy restore another 4% Ultimate Energy to the operator.
+Lifeng Talent IV (Unlock at Promotion III)
+Intern of the MonthCombo skill hits on the enemy restore another 8% Ultimate Energy to the operator.
+Lifeng AIC Skills
+Lifeng AIC Skill I (Unlock at Promotion I)
+Mycophile ßWhen assigned to the Growth Chamber, increase fungi growth rate by 12%
+Lifeng AIC Skill II (Unlock at Promotion II)
+Vitrophile ßWhen assigned to the Growth Chamber, increase vitros growth rate by 12%
+Lifeng AIC Skill III (Unlock at Promotion III)
+Mycophile yWhen assigned to the Growth Chamber, increase fungi growth rate by 16%
+Lifeng AIC Skill IV (Unlock at Promotion IV)
+Vitrophile yWhen assigned to the Growth Chamber, increase vitros growth rate by 16%
+Lifeng Potential
+Lifeng Potential I
+Worldly TroublesTargets affected by Turbidity suffer an additional 10% Physical RES reduction.
+Lifeng Potential II
+This is XiraniteAll Attributes +15.
+Lifeng Potential III
+Unity of MindUltimate Energy cost for casting ultimate -10%.
+Lifeng Potential IV
+Applied LessonsYouthful Nature effect enhanced: Every Intellect and Will grants the operator additional ATK +0.05%.
+Lifeng Potential V
+Acharyan PathEvery 10s, the next Dodge Attack deals +50% DMG. The DMG increase effect can stack up to 3 times.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Orbiters
+Caster
+Electric
+Lorem Ipsum
+Perlica Build
+Main Attribute: Intellect
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Will
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:37 AM
+Perlica Overview
+IntroductionPerlica is a Caster in Arknights Endfields. Perlica is a Electric character which equips with Orbiters. As the Supervisor 
+at Endfield Industries, she adeptly navigates company resources. A disciplined and approachable leader, she engenders anticipation among 
+operators to join her team, known for its attractive incentives such as bonuses, ample leave days, and continuous learning opportunities 
+during assignments.
+Orbiters
+Caster
+Electric
+Perlica Review
+Endgame ReviewAs a ranged damage dealer. Perlica delivers a combination of focused single-target DPS through her Active Skill and 
+unleashes widespread AOE damage with her Ultimate. Given Perlica’s vulnerability, We suggest switching to her solely for skill 
+activation before reverting to your tank unit to prevent significant harm.
+Perlica Skills
+Perlica Basic Attack
+Protocol a: BreachBASIC ATTACK:4-sequence attack that deals Electric DMG. As the controlled operator, Final Strike also deals 15 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.DODGE ATTACK:Basic attack 
+performed right after a dodge becomes a dodge attack that deals Electric DMG.FINISHER:Basic attack performed near a Staggered enemy 
+becomes a finisher attack that deals massive Electric DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Perlica Battle Skill
+Protocol w: StrikeCalls down a bolt of electro-magnetic energy that deals Electric DMG, [10 Stagger], and Electric Infliction to enemies 
+in a small AOE.
+SP cost 100
+MultiplierBattle Skill Lv:
+Perlica Combo Skill
+Instant Protocol: ChainSKILL TRIGGER: When controlled operator performs Final Strike on any enemy. Performs 1 attack at the target to 
+deal Electric DMG and [10 Stagger] and inflicts temporary Electrification.
+Cooldown 30s
+MultiplierCombo Skill Lv:
+Perlica Ultimate
+Protocol ε: 70.41KTele-protocols a massive piece of orbital debris into the battlefield with devastating impact. All enemies hit suffer 
+massive Electric DMG and [20 Stagger].
+Ultimate Energy Cost 100
+MultiplierUltimate Lv:
+Perlica Attribute Increase
+Perlica Attribute Increase I (Unlock at Promotion I)
+Keen MindOperator Intellect +5.
+Perlica Attribute Increase II (Unlock at Promotion II)
+Keen MindOperator Intellect +10.
+Perlica Attribute Increase III (Unlock at Promotion III)
+Keen MindOperator Intellect +15.
+Perlica Talent
+Perlica Talent I (Unlock at Promotion I)
+Obliteration ProtocolDeals 20% bonus DMG to Staggered enemies.
+Perlica Talent II (Unlock at Promotion II)
+Obliteration ProtocolDeals 30% bonus DMG to Staggered enemies.
+Perlica Talent III (Unlock at Promotion II)
+Cycle ProtocolCombo skill hits on the enemy restore another 10 SP.
+Perlica Talent IV (Unlock at Promotion III)
+Cycle ProtocolCombo skill hits on the enemy restore another 15 SP.
+Perlica AIC Skills
+Perlica AIC Skill I (Unlock at Promotion I)
+Inspire αWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 18%
+Perlica AIC Skill II (Unlock at Promotion II)
+Mycophile ßWhen assigned to the Growth Chamber, increase fungi growth rate by 12%
+Perlica AIC Skill III (Unlock at Promotion III)
+Inspire ßWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 24%
+Perlica AIC Skill IV (Unlock at Promotion IV)
+Mycophile yWhen assigned to the Growth Chamber, increase fungi growth rate by 16%
+Perlica Potential
+Perlica Potential I
+Art of CommunicationATK +10%, Critical Rate +5%.
+Perlica Potential II
+Yinglong ExerciseSlashing Edge effect enhanced: ATK increase coefficient +3.0%.
+Perlica Potential III
+Supervisorial DutyUltimate Energy cost for casting ultimate -10%.
+Perlica Potential IV
+Constant GuidanceElectrify effect inflicted by combo skill gains duration +75%.
+Perlica Potential V
+Coordination AdvocateCycle Protocol effect enhanced: Combo skill hits restore +50% SP.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Great Sword
+Defender
+Cryo
+Lorem Ipsum
+Snowshine Build
+Main Attribute: Strength
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Intellect
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:38 AM
+Snowshine Overview
+IntroductionSnowshine is a Defender in Arknights Endfields. Snowshine is a Cryo character which equips with Great Sword. Snowshine is a 
+Rhodes Island operator under the direct command of Director Warfarin of Rhosed Island Pharmaceuticals Incorporated. Snowshin had jointly 
+carried out multiple search and rescue (WAR) missions with Endfield Industries and solved many technical issues as an SAR profesional. 
+Snowshin is currently working at Endfield Industries as a Rhodes Island SAR specialist and liaison.
+Great Sword
+Defender
+Cryo
+Snowshine Review
+Endgame ReviewTBC
+Snowshine Skills
+Snowshine Basic Attack
+Hypothermic AssaultBASIC ATTACK:4-sequence attack that deals Physical DMG. As the controlled operator, Final Strike also deals 35Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG.DODGE ATTACK:Basic attack performed right 
+after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed near a Staggered enemy becomes a finisher 
+attack that deals massive Physical DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Snowshine Battle Skill
+Defensive PostureRaises the shield to temporarily grant massive DMG Reduction to self and nearby operators. If attacked during this time,
+ perform a retaliation bash that deals Physical DMG, [25 Stagger], and knock back to the attacker.
+ SP cost 100
+MultiplierBattle Skill Lv:
+Snowshine Combo Skill
+Emergency SARSKILL TRIGGER: When controlled operator gets attacked and is below 60% HP. Snowshine throws a little mangler cub at the 
+controlled operator. Upon contact, the cub instantly gives massive HP Treatment to nearby operators. The cub also stays for a while and 
+continuously offers HP Treatment to nearby operators. Amount of treatment is based on Snowshine’s ATK.
+Cooldown 30s
+MultiplierCombo Skill Lv:
+Snowshine Ultimate
+Frjgld QuakeLeaps into mid-air with a jetpack before slamming down with the shield to deal massive Cryo DMG and [20 Stagger] to enemies 
+in the area of effect. Then generates a Freeze Zone that lasts for several seconds that deals Cryo Damage over time to enemies. The Freeze
+ Zone also deals Cryo Infliction to enemies within it if they have no other Arts Inflictions.
+ Ultimate Energy Cost 100
+MultiplierUltimate Lv:
+Snowshine Attribute Increase
+Snowshine Attribute Increase I (Unlock at Promotion I)
+ForgedOperator Strength +5.
+Snowshine Attribute Increase II (Unlock at Promotion II)
+ForgedOperator Strength +10.
+Snowshine Attribute Increase III (Unlock at Promotion III)
+ForgedOperator Strength +15.
+Snowshine Talent
+Snowshine Talent I (Unlock at Promotion I)
+Polar SurvivalWhen Snowshine is present, for every surviving Defender in the team, team gains DEF +5%.
+Snowshine Talent II (Unlock at Promotion II)
+Polar SurvivalWhen Snowshine is present, for every surviving Defender in the team, team gains DEF +10%.
+Snowshine Talent III (Unlock at Promotion II)
+SAR ProfessionalFor targets below 50% HP, Snowshine gains Treatment Effect +25%.
+Snowshine Talent IV (Unlock at Promotion III)
+SAR ProfessionalFor targets below 50% HP, Snowshine gains Treatment Effect +50%.
+Snowshine AIC Skills
+Snowshine AIC Skill I (Unlock at Promotion I)
+Factory Pioneer aWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 6%
+Snowshine AIC Skill II (Unlock at Promotion II)
+Inspire ßWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 24%
+Snowshine AIC Skill III (Unlock at Promotion III)
+Factory Pioneer ßWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 9%
+Snowshine AIC Skill IV (Unlock at Promotion IV)
+Inspire yWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 30%
+Snowshine Potential
+Snowshine Potential I
+IcefallUltimate AOE radius +20%.
+Snowshine Potential II
+SAR ExpertisePolar Survival effect enhanced: For every surviving Defender in the team, increase DEF by another 5%.
+Snowshine Potential III
+Snowtleld TansmanUltimate Energy cost for casting ultimate -10%.
+Snowshine Potential IV
+undraAegisDEF +20, WILL +30.
+Snowshine Potential V
+Disaster PrepperWhen battle skill successfully retaliates the target, restore 20 SP.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Guns
+Specialist
+Heat
+Lorem Ipsum
+Wulfgard Build
+Main Attribute: Strength
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Agility
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:37 AM
+Wulfgard Overview
+IntroductionWulfgard is a Specialist in Arknights Endfields. Wulfgard is a Heat character which equips with Guns. Having once belonged to
+ the Landbreaker group named “The Pack.” The Landbreakers stand as adversaries within the game, leaving many Endfield staff puzzled by 
+ Supervisor Perlica’s decision to welcome this risky individual into their ranks. Nonetheless, Perlica explicitly expresses her 
+ admiration for Wulfgard’s skills, viewing him as a valuable asset deserving of their sustained commitment.
+Guns
+Specialist
+Heat
+Wulfgard Review
+Endgame ReviewWill be added later when it is released
+Wulfgard Skills
+Wulfgard Basic Attack
+Speedfire KataBASIC ATTACK:4-sequence attack that deals Physical DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.DODGE ATTACK:Basic attack 
+performed right after a dodge becomes a dodge attack that deals Physical DMG.FINISHER:Basic attack performed near a Staggered enemy 
+becomes a finisher attack that deals massive Physical DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Wulfgard Battle Skill
+Targeted TerminationFires multiple shots at the target, dealing some Heat DMG and [5 Stagger]. If the target has an active Arts Reaction,
+ consume the Arts Reaction and fire a sniper shot that deals massive Heat DMG and [5 Stagger].
+MultiplierBattle Skill Lv:
+Wulfgard Combo Skill
+Custom Grenade • ßSKILL TRIGGER: When an enemy suffers an Arts Infliction. Throws an incendiary grenade at the enemy’s feet. The grenade 
+explodes upon hitting the ground, dealing Heat DMG, [10 Stagger], and Heat Infliction to enemies in the area of effect.
+Cooldown 30s
+MultiplierCombo Skill Lv:
+Wulfgard Ultimate
+Wolven FuryUnleashes a rapid barrage of shots and unleashes a Wolf Spirit to attack nearby enemies, dealing 5 hits of Heat DMG, 
+[20 Stagger in total], and Combust.
+
+MultiplierUltimate Lv:
+Wulfgard Attribute Increase
+Wulfgard Attribute Increase I (Unlock at Promotion I)
+ForgedOperator Strength +5.
+Wulfgard Attribute Increase II (Unlock at Promotion II)
+ForgedOperator Strength +10.
+Wulfgard Attribute Increase III (Unlock at Promotion III)
+ForgedOperator Strength +15.
+Wulfgard Talent
+Wulfgard Talent I (Unlock at Promotion I)
+Scorching RoundsDMG dealt to Combusted enemies +10% + Agility x0.05%.
+Wulfgard Talent II (Unlock at Promotion II)
+Scorching RoundsDMG dealt to Combusted enemies +20% + Agility x0.10%.
+Wulfgard Talent III (Unlock at Promotion II)
+Relentless PredatorEvery enemy defeated by Wulfgard shortens combo skill CD by 10%.
+Wulfgard Talent IV (Unlock at Promotion III)
+Relentless PredatorEvery enemy defeated by Wulfgard shortens combo skill CD by 16%.
+Wulfgard AIC Skills
+Wulfgard AIC Skill I (Unlock at Promotion I)
+Factory Pioneer αWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 6%
+Wulfgard AIC Skill II (Unlock at Promotion II)
+Expert Grower ßWhen assigned to the Growth Chamber, slow Mood Drop of all operators in it by 14%
+Wulfgard AIC Skill III (Unlock at Promotion III)
+Factory Pioneer ßWhen assigned to the Manufacturing Cabin, increase its base production efficiency by 9%
+Wulfgard AIC Skill IV (Unlock at Promotion IV)
+Expert Grower yWhen assigned to the Growth Chamber, slow Mood Drop of all operators in it by 18%
+Wulfgard Potential
+Wulfgard Potential I
+Honed FangWhen battle skill fails to trigger the final effect, return 20 SP.
+Wulfgard Potential II
+Lone WolfSTR +20, AGI +20.
+Wulfgard Potential III
+Ammo economyUltimate Energy cost for casting ultimate -10%.
+Wulfgard Potential IV
+Call of the PackRelentless Predator effect enhanced: When effect is triggered, combo skill CD is shortened by another 8%.
+Wulfgard Potential V
+Merciful PredatorWhen the ultimate only hits 1 target, the operator gains ATK +40% for 10s.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Orbiters
+Support
+Cryo
+Lorem Ipsum
+Xaihi Build
+Main Attribute: Will
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Intellect
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:37 AM
+Xaihi Overview
+IntroductionXaihi is a Support in Arknights Endfields. Xaihi is a Cryo character which equips with Orbiters. A proficient technologist in
+ Originium Circultry, she possesses an extensive and distinctive expertise in Originium communications technology, alongside software 
+ and hardware engineering. Her demeanor is composed and gentle, guided by a wealth of wisdom that surpasses her years. During 
+ conversations, she effortlessly delves into technical jargon that may transcend the comprehension of the average individual.
+Orbiters
+Support
+Cryo
+Xaihi Review
+Endgame ReviewXaihi functions as a supporting DPS character, utilizing a staff in combat. We found her somewhat lackluster in comparison 
+to other characters. Nevertheless, her Ultimate significantly boosts the DPS output of all your characters’ skills. Ensure to activate 
+her Ultimate when all characters have their skills ready or are nearing their Ultimates for maximum damage potential.
+Xaihi Skills
+Xaihi Basic Attack
+Injection AttackBASIC ATTACK:5-sequence attack that deals Cryo DMG. As the controlled operator, Final Strike also deals 15 Stagger.DIVE 
+ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.DODGE ATTACK:Basic attack performed 
+right after a dodge becomes a dodge attack that deals Cryo DMG.FINISHER:Basic attack performed near a Staggered enemy becomes a finisher 
+attack that deals massive Cryo DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Xaihi Battle Skill
+Distributed DoSSummons an Auxiliary Crystal that gives an ATK buff to all operators while it is present. INT can slightly increase the 
+ATK buff. The Auxiliary Crystal disappears after some time.
+SP cost 100
+MultiplierBattle Skill Lv:
+Xaihi Combo Skill
+Stress TestingSKILL TRIGGER: When the Auxiliary Crystal is about to disappear. Quickly charges up the Auxiliary Crystal and launches it 
+at the enemy to deal Cryo DMG, [10 Stagger], and Cryo Infliction.
+Cooldown IOS
+MultiplierCombo Skill Lv:
+Xaihi Ultimate
+Stack OverflowGives HP Treatment (amount is based on Xaihiis ATK) and a temporary ATK buff to all operators.
+Ultimate Energy Cost 85
+Multiplier﻿Ultimate Lv:
+Xaihi Attribute Increase
+Xaihi Attribute Increase I (Unlock at Promotion I)
+StalwartOperator Will +5.
+Xaihi Attribute Increase II (Unlock at Promotion II)
+StalwartOperator Will +10.
+Xaihi Attribute Increase III (Unlock at Promotion III)
+StalwartOperator Will +15.
+Xaihi Talent
+Xaihi Talent I (Unlock at Promotion I)
+Execute ProcessUpon entering battle, the first casting of battle skill returns 20 SP.
+Xaihi Talent II (Unlock at Promotion II)
+Execute ProcessUpon entering battle, the first casting of battle skill returns 35 SP.
+Xaihi Talent III (Unlock at Promotion II)
+Freeze ProtocolWhen Xaihi inflicts Solidification, further reduce the Solidified target’s Physical RES by 8%.
+Xaihi Talent IV (Unlock at Promotion III)
+Freeze ProtocolWhen Xaihi inflicts Solidification, further reduce the Solidified target’s Physical RES by 15%.
+Xaihi AIC Skills
+Xaihi AIC Skill I (Unlock at Promotion I)
+Inspire aWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 18%
+Xaihi AIC Skill II (Unlock at Promotion II)
+Vitrophile ßWhen assigned to the Growth Chamber, increase vitros growth rate by 12%
+Xaihi AIC Skill III (Unlock at Promotion III)
+Inspire ßWhen assigned to the Control Nexus, increase all operators’ Mood Regen by 24%
+Xaihi AIC Skill IV (Unlock at Promotion IV)
+Vitrophile yWhen assigned to the Growth Chamber, increase vitros growth rate by 16%
+Xaihi Potential
+Xaihi Potential I
+Agne executionExecute Process effect enhanced: SP restoration +15.
+Xaihi Potential II
+Link AggregationHP restoration and ATK boost effects from the ultimate +20%.
+Xaihi Potential III
+Conduit of VeritasATK +10%, Treatment Bonus +10%.
+Xaihi Potential IV
+Grayscale ReleaseUltimate Energy cost for casting ultimate -10%.
+Xaihi Potential V
+Controlled RecursionFreeze Protocol effect enhanced: Further reduces Physical RES by 10%.
+
+Guide
+ 
+
+ Menu
+
+
+Characters
+Arknights Endfield Weapons
+AIC Factory Plan
+Guide
+Guns
+Caster
+Cryo
+Lorem Ipsum
+Yvonne Build
+Main Attribute: Intellect
+Gives 1% ATK Bonus per 1 point of Main Attribute
+Secondary Attribute: Agility
+Gives 0.4% ATK Bonus per 1 point of Secondary Attribute
+
+Last updated: January 22, 2025 4:39 AM
+Yvonne Overview
+IntroductionYvonne is a Caster in Arknights Endfields. Yvonne is a Cryo character which equips with Guns. Yvonne is a scientist in the 
+Specialist Tech Division of Endfield Industries.Unlike the stereotypical nerd, Yvonne comes across as a chic, fashionable girl. She dyes
+her horns, tail, and nails in bright colors; she modifies her attire into her favorite flamboyant designs; she would skip academic 
+conferences to buy fashion magazines and popular albums. Yvonne is always drawn to oddities and novelties. She defies conventions and 
+always stays ahead of the latest trends.
+Guns
+Caster
+Cryo
+Yvonne Review
+Endgame ReviewTBC
+Yvonne Skills
+Yvonne Basic Attack
+Exuberant TriggerBASIC ATTACK:5-sequence pistol firing that deals Cryo DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+DIVE ATTACK:Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.DODGE ATTACK:Basic attack 
+performed right after a dodge becomes a dodge attack that deals Cryo DMG.FINISHER:Basic attack performed near a Staggered enemy becomes 
+a finisher attack that deals massive Cryo DMG to the said enemy and restores some SP.
+MultiplierBase Attack Lv:
+Yvonne Battle Skill
+Chilly Bullet ßFires an ice bullet that explodes upon hitting an enemy to deal Cryo DMG, [10 Stagger], and Cryo Infliction to nearby enemies.
+SP cost 100
+MultiplierBattle Skill Lv:
+Yvonne Combo Skill
+Flashfreezer u37SKILL TRIGGER: When the controlled operator performs Final Strike on enemies with active Cryo Infliction or 
+Solidification. Immediately deploys a Flashfreezer unit with a 3s lifespan next to the target that constantly releases shockwaves that 
+deal Cryo DMG to nearby enemies. Flashfreezer explodes upon expiration and deals Cryo DMG, [10 Stagger], and instant Solidification to 
+enemies with active Cryo Infliction.
+Cooldown 30s
+MultiplierCombo Skill Lv:
+Yvonne Ultimate
+Glacial KilljoyImmediately deploys a Support Bot and makes Yvonne the controlled operator. Enhances Yvonne’s basic attack (BATK) for a 
+short duration. Each BATK sequence increases the DMG dealt by her BATK (max stacks: 10; duration: 3s). At max stacks, Yvonne also gains 
+a Critical Rate buff. When the skill is about to expire, Yvonne’s last BATK becomes a powered attack that deals massive Cryo DMG and 
+Cryo Infliction.
+Ultimate Energy Cost 150
+MultiplierUltimate Lv:
+Yvonne Attribute Increase
+Yvonne Attribute Increase I (Unlock at Promotion I)
+Keen MindOperator Intellect +5.
+Yvonne Attribute Increase II (Unlock at Promotion II)
+Keen MindOperator Intellect +10.
+Yvonne Attribute Increase III (Unlock at Promotion III)
+Keen MindOperator Intellect +15.
+Yvonne Talent
+Yvonne Talent I (Unlock at Promotion I)
+Freezing PointDeals +10% DMG to enemies with active Cryo Infliction. Effect is doubled against Solidified enemies.
+Yvonne Talent II (Unlock at Promotion II)
+Freezing PointDeals +20% DMG to enemies with active Cryo Infliction. Effect is doubled against Solidified enemies.
+Yvonne Talent III (Unlock at Promotion II)
+Novel TechnologyWhen Yvonne is present, all Casters in the team gain Critical DMG +10%.
+Yvonne Talent IV (Unlock at Promotion III)
+Novel TechnologyWhen Yvonne is present, all Casters in the team gain Critical DMG +20%.
+Yvonne AIC Skills
+Yvonne AIC Skill I (Unlock at Promotion I)
+Mineralphile ßwhen assigned to the Growth Chamber, increase mineral growth rate by 12%
+Yvonne AIC Skill II (Unlock at Promotion II)
+Expert MFG ßWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 14%
+Yvonne AIC Skill III (Unlock at Promotion III)
+Mineralphile ywhen assigned to the Growth Chamber, increase mineral growth rate by 16%
+Yvonne AIC Skill IV (Unlock at Promotion IV)
+Expert MFG yWhen assigned to the Manufacturing Cabin, slow Mood Drop of all operators in it by 18%
+Yvonne Potential
+Yvonne Potential I
+Flash FreezerFreezing Point effect enhanced: Deals an additional 10% DMG to enemies with active Cryo Infliction. Effect is doubled 
+against Solidified enemies.
+Yvonne Potential II
+Rebellious MoodUltimate Energy cost for casting ultimate -10%.
+Yvonne Potential III
+Anti-StereotypeATK +10%, Critical Rate +5%.
+Yvonne Potential IV
+Energizer ßDefeating an enemy during the ultimate grants additional 30% Ultimate Energy after the skill ends.
+Yvonne Potential V
+Inventor of DangerousNext dive attack deals +150% DMG and has a 100% chance to deal 5 Stagger (effect triggers at most 1 time every 15s).
